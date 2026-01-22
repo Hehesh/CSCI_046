@@ -1,3 +1,4 @@
 Python review/
 .python-version
 *.code-workspace
+**.DS_Store
